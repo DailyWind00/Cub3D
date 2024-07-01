@@ -17,7 +17,7 @@ valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes -s --keep-d
 
 
 To understand my program, you need to see the circle unit :
-![](https://github.com/DailyWind00/Cub3D/blob/main/Screens/CircleUnitScreen.png)
+![](CircleUnitScreen.png)
 
 To use the program, you must do these commands :
 ```shell
