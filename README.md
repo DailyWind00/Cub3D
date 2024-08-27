@@ -12,7 +12,7 @@ Check also my itch.io profile :
 
 This project use the readline function, causing some leaks and weirds issues in the code, to fix the leaks, use :
 ```shell
-valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes -s --keep-debuginfo=yes --suppressions="mlx42.supp" ./minishell
+valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes -s --keep-debuginfo=yes --suppressions="mlx42.supp" ./cub3D
 ```
 
 
